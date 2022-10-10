@@ -22,7 +22,7 @@ output "vnet_cidr_space" {
 # output "subnet_id" {
 #   description = "IDs of the subnets"
 #   value = {
-#     for id in keys(var.subnets) : id =>  azurerm_subnet.example.subnet_id
+#     for id in keys(var.subnet) : id =>  azurerm_subnet.example.subnet_id
 #   }
 # }
 
