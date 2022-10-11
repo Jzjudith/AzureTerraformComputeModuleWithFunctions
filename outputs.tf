@@ -5,11 +5,11 @@ output "resource_group_name" {
 
 output "location" {
   description = "The name of the location"
-  value = azurerm_resource_group.example.location
+  value       = azurerm_resource_group.example.location
 }
 
 output "virtual_network_name" {
-  description = "The name of the virtual network" 
+  description = "The name of the virtual network"
   value       = azurerm_virtual_network.example.name
 }
 
