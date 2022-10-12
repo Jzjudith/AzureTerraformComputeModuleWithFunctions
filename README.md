@@ -42,11 +42,5 @@ No modules.
 
 ## Outputs
 
-| Name | Description |
-|------|-------------|
-| <a name="output_location"></a> [location](#output\_location) | The name of the location |
-| <a name="output_resource_group_name"></a> [resource\_group\_name](#output\_resource\_group\_name) | The name which should be used for this Resource Group |
-| <a name="output_tags"></a> [tags](#output\_tags) | A mapping of tags which should be assigned to the Resource Group. |
-| <a name="output_virtual_network_name"></a> [virtual\_network\_name](#output\_virtual\_network\_name) | The name of the virtual network |
-| <a name="output_vnet_cidr_space"></a> [vnet\_cidr\_space](#output\_vnet\_cidr\_space) | The address prefixes to use for the subnet. |
+No outputs.
 <!-- END_TF_DOCS -->
