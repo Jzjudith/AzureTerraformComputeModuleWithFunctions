@@ -68,6 +68,7 @@ variable "tags" {
   default = {
     environment = "Development"
   }
+
 }
 
 
